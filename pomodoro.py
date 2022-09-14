@@ -29,7 +29,7 @@ MINUTES = int(input("How many minutes is your timer: "))
 end = False
 times = 0
 while end != True:
-    input("Press enter to start a cycle")
+    input("Press enter to start a cycle \n")
     pomodoro(MINUTES)
     times += 1
     timeWorked = MINUTES * times
