@@ -1,0 +1,6 @@
+build.bat
+dist.bat
+pomodoro.cmd
+pomodoro.build/
+pomodoro.dist/
+pomodoro.exe
